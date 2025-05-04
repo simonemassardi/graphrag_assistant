@@ -9,6 +9,7 @@ dependencies = [
     "langchain>=0.3.25",
     "langgraph>=0.4.1",
     "neo4j>=5.28.1",
+    "neo4j-graphrag>=1.7.0",
     "openai>=1.77.0",
     "ragas>=0.2.15",
     "uvicorn>=0.34.2",
